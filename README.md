@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![An image of @poojagoel07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poojagoel07)](https://holopin.io/@poojagoel07)
 <!--
 **Pooja-Goel07/Pooja-Goel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
