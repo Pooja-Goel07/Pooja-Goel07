@@ -1,4 +1,5 @@
 ## Hi there 👋
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Pooja-Goel07/Pooja-Goel07/output/snake.svg)
 
 My badges for Hacktoberfest Contributions
 [![An image of @poojagoel07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poojagoel07)](https://holopin.io/@poojagoel07)
