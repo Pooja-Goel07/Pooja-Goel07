@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Pacman contribution graph
-        uses: yoshi389111/github-contribution-pacman@v2
+        uses: yoshi389111/github-profile-pacman@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
