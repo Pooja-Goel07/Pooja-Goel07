@@ -17,7 +17,7 @@ jobs:
           # 🎨 Custom colors for darker green look
           color_snake: "#39d353"
           color_dots: "#161b22, #0e4429, #006d32, #26a641, #39d353"
-          background: "#0d1117"   # 👈 Dark background (GitHub dark theme)
+          color_background: "#0d1117"  # 👈 Use this for dark background
 
       - name: Push Snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
