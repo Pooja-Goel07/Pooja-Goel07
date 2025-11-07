@@ -1,8 +1,6 @@
 <h1 align="center">✨ Turning Data into Intelligence — I'm Pooja Goel ✨</h1>
 
-<div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer gif" />
-</div>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ###
 
@@ -29,34 +27,44 @@
 
 ---
 
-### About Me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> more about me...  
 I’m a B.Tech CSE (IoT specialization) student at **VIT Vellore**.  
 I love blending **AI, ML, and Data Science** to create smart web + AI solutions.  
 I explore everything from **LangChain & Gemini** to **Computer Vision & Deep Learning**. 
 
 ---
 
+## 🚀 Featured Projects  
 
-### Featured Projects
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h3>🧩 DataLens</h3>
+      <p><b>AI Chat-Enabled CSV Dashboard</b></p>
+      <img src="https://skillicons.dev/icons?i=fastapi,mysql,python" height="25"/><br><br>
+      <a href="https://github.com/Pooja-Goel07/DataLens">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="300">
+      <h3>🖱️ Air Mouse</h3>
+      <p><b>Motion & Gesture Controlled Mouse</b></p>
+      <img src="https://skillicons.dev/icons?i=python,opencv,arduino" height="25"/><br><br>
+      <a href="https://github.com/Pooja-Goel07/Air-Mouse">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="300">
+      <h3>💰 Medical Cost Prediction</h3>
+      <p><b>Regression Model Comparison</b></p>
+      <img src="https://skillicons.dev/icons?i=python,sklearn,pandas" height="25"/><br><br>
+      <a href="https://www.kaggle.com/code/poojagoel07/medical-cost-prediction">
+        <img src="https://img.shields.io/badge/View%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-#### 🧩 DataLens — AI Chat-Enabled CSV Dashboard
-- Interactive platform to upload CSVs, visualize data, and **chat with datasets** using **Gemini + LangChain**.  
-- Features include **summary stats**, **outlier detection**, and **JWT-secured login** with **MySQL** persistence.  
-**Tech Stack:** FastAPI, SQLAlchemy, MySQL, LangChain, Gemini API, Pandas, Matplotlib, Seaborn, OAuth, JWT, bcrypt, HTML/CSS/JS  
-📎 [View on GitHub](https://github.com/Pooja-Goel07/DataLens)
-
-#### 🖱️ Air Mouse — Motion & Gesture Controlled Wireless Mouse
-- Designed a wireless **motion-controlled mouse** using **ESP32**, **MPU6050**, **flex sensors**, and **BLE**.  
-- Integrated **OpenCV + MediaPipe** for gesture recognition and implemented touch-free navigation controls.  
-📎 [View on GitHub](https://github.com/Pooja-Goel07/AirMouse)
-
-#### 💰 Medical Cost Prediction using Regression Models
-- Predicted healthcare costs using **Python, Pandas, and scikit-learn**.  
-- Tuned multiple regression models (Linear, Polynomial, KNN, Tree, Regularized, SVR) with **GridSearchCV**.  
-- Visualized model performance using **Matplotlib** and **Seaborn**; **Random Forest** achieved best accuracy.  
-📎 [View on Kaggle](https://www.kaggle.com/poojagoel07)
-
----
 
 ### Tech Stack
 <div align="center">
@@ -87,19 +95,30 @@ I explore everything from **LangChain & Gemini** to **Computer Vision & Deep Lea
 ---
 
 ### Contribution Snake
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Pooja-Goel07/Pooja-Goel07/output/snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pooja-Goel07/Pooja-Goel07/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Animation" />
+</div>
+
 
 ---
 
 ### Hacktoberfest & Badges
-[![An image of @poojagoel07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poojagoel07)](https://holopin.io/@poojagoel07)
-
+<p align="center">
+  <a href="https://holopin.io/@poojagoel07">
+    <img src="https://holopin.me/poojagoel07" alt="@poojagoel07's Holopin badges" width="700" />
+  </a>
+</p>
 ---
 
 ### Let’s Connect!
 📫 **Email:** poojagoel0704@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/pooja-goel07](https://www.linkedin.com/in/pooja-goel07) 
 
----
 
 ⭐ *“Driven by curiosity, powered by creativity, and guided by code.”* ⭐
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Always open to meaningful connections and conversations — let’s connect!</b> :)</em>
+
+---
