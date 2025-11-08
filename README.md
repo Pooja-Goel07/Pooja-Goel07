@@ -5,7 +5,7 @@
 ###
 
 <p align="center">
-  <b>B.Tech CSE (IoT Specialization) Student at VIT Vellore | AI/ML & Data Science Enthusiast | FastAPI Developer</b>
+  <b>B.Tech CSE (IoT Specialization) Student at VIT Vellore | AI/ML & Data Science Enthusiast </b>
 </p>
 
 ###
@@ -108,7 +108,7 @@ I explore everything from **LangChain & Gemini** to **Computer Vision & Deep Lea
     <img src="https://holopin.me/poojagoel07" alt="@poojagoel07's Holopin badges" width="700" />
   </a>
 </p>
----
+
 
 ### Let’s Connect!
 📫 **Email:** poojagoel0704@gmail.com  
