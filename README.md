@@ -42,7 +42,7 @@ I explore everything from **LangChain & Gemini** to **Computer Vision & Deep Lea
       <h3>🧩 DataLens</h3>
       <p><b>AI Chat-Enabled CSV Dashboard</b></p>
       <img src="https://skillicons.dev/icons?i=fastapi,mysql,python" height="25"/><br><br>
-      <a href="https://github.com/Pooja-Goel07/DataLens">
+      <a href="https://github.com/Pooja-Goel07/DataLens-AI_Chat_Enabled-CSV-Dashboard">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -50,7 +50,7 @@ I explore everything from **LangChain & Gemini** to **Computer Vision & Deep Lea
       <h3>🖱️ Air Mouse</h3>
       <p><b>Motion & Gesture Controlled Mouse</b></p>
       <img src="https://skillicons.dev/icons?i=python,opencv,arduino" height="25"/><br><br>
-      <a href="https://github.com/Pooja-Goel07/Air-Mouse">
+      <a href="https://github.com/Shaurya-Saini/AirMouse">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -58,7 +58,7 @@ I explore everything from **LangChain & Gemini** to **Computer Vision & Deep Lea
       <h3>💰 Medical Cost Prediction</h3>
       <p><b>Regression Model Comparison</b></p>
       <img src="https://skillicons.dev/icons?i=python,sklearn,pandas" height="25"/><br><br>
-      <a href="https://www.kaggle.com/code/poojagoel07/medical-cost-prediction">
+      <a href="https://github.com/Pooja-Goel07/Medical-Cost-Regression-Analysis">
         <img src="https://img.shields.io/badge/View%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
       </a>
     </td>
